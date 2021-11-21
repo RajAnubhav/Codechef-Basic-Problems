@@ -1,3 +1,5 @@
+// Program on the selection of the socks by the chef
+
 #include <iostream>
 using namespace std;
 

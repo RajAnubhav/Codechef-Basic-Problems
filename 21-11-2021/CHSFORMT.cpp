@@ -1,3 +1,5 @@
+// this is a program for the formating of the input entered by the chef
+
 #include <iostream>
 using namespace std;
 
