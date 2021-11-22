@@ -1,4 +1,4 @@
-/*Read problem statements in Russian and Mandarin Chinese.
+/*
 A great deal of energy is lost as metabolic heat when the organisms from one trophic level are consumed by the next level.
 
 Suppose in Chefland the energy reduces by a factor of K, i.e, if initially, the energy is X, then the transfer of energy to the next tropic level is ⌊XK⌋. This limits the length of foodchain which is defined to be the highest level receiving non-zero energy.
