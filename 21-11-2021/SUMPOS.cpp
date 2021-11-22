@@ -33,7 +33,7 @@ Case 3: For this case, no integer can be written as the sum of other two.
 
 Case 4: For this case, no integer can be written as the sum of other two.
 
-Case 5: For this case, the third integer can be written as the sum of the first two. 33=11+22
+Case  5: For this case, the third integer can be written as the sum of the first two. 33=11+22
 */
 
 #include <iostream>

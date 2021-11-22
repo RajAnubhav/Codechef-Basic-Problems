@@ -10,7 +10,8 @@ The first line contains an integer T, the number of test cases. Then the test ca
 Each test case contains a single line of input, two integers g, c.
 Output
 For each test case, output in a single line the answer to the problem. We can show that under the constraints, the answer is an integer.
-
+ 
+ 
 Constraints
 1≤T≤5⋅103
 1≤g≤10

@@ -23,7 +23,7 @@ Sample Output 1
 10000
 3
 Explanation
-Test case 1: Chef has no pairs to sell, so the amount obtained is 0.
+Tes t case 1: Chef has no pairs to sell, so the amount obtained is 0.
 Test case 2: The amount earned by selling a pair is 0, so the total amount obtained is 0.
 Test case 3: Chef can sell 10 pairs of slippers, each giving 1000 rupees, so the total amount earned is 1000⋅10=10000.
 Test case 4: Chef has 10 slippers of which 7 are left and 3 are right. Therefore Chef can sell a maximum of 3 pairs and in total can get at most 3⋅1=3.

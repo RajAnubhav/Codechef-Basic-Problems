@@ -11,7 +11,7 @@ Input Format
 First line will contain T, number of testcases. Then the testcases follow.
 Each testcase contains a single line of input, two integers a,b.
 Output Format
-For each testcase, output in a single line, answer 1 for bullet, 2 for blitz, 3 for rapid, and 4 for classical format.
+For  each testcase, output in a single line, answer 1 for bullet, 2 for blitz, 3 for rapid, and 4 for classical format.
 
 Constraints
 1≤T≤1100

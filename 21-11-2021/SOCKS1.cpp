@@ -9,6 +9,7 @@ The first and only line of the input contains three space-separated integers A, 
 Output
 Print a single line containing the string "YES" if it is possible for Chef to wear two socks with the same colour or "NO" if it is impossible (without quotes).
 
+
 You may print each character of each string in uppercase or lowercase (for example, the strings "yEs", "yes", "Yes" and "YES" will all be treated as identical).
 
 Constraints
